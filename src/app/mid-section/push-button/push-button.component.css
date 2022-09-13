@@ -1,0 +1,16 @@
+.push-button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.mat-fab{
+  width: 200px;
+  height: 200px;
+  font-size: 35px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
